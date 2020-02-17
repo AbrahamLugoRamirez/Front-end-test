@@ -1,0 +1,48 @@
+.form-container{
+    position: absolute;
+    top: 15vh;    
+    
+    padding:20px;
+    font-size:italic;
+    background-color: white;
+    color:#000;
+    border: 1px solid #d0d0d0;     
+}
+.sign{
+    position: absolute;
+    top: 7vh;
+    text-align: center;
+    align-content: center;
+    width: 100%;
+}
+.bg{
+    background: url("../images/fondo.jpg") no-repeat;
+    width: 100%;
+    height: 100vh;  
+}
+.send{
+    float: right;
+}
+.form-inline{
+    background: black;
+    color: black;
+}
+.button-login{
+position: relative;
+
+}
+.bt{
+    
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 0px #000;
+    width: 100%;
+}
+.ls-line-md {
+    border-bottom: 1px solid #A4A4A4;
+    width: 130px;
+    left: 3%;
+}
+.ls-or {
+    top: 10px;
+    text-align: center;
+}
