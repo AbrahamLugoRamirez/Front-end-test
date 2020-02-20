@@ -1,0 +1,12 @@
+.hi{
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #000;  
+    width: 80%;
+    left: auto;
+    right: auto ;
+    width: 70%;
+    margin: auto;
+    text-align: justify;
+    padding: 12px;
+    margin-bottom: 20px;
+}
