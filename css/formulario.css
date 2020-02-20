@@ -9,4 +9,15 @@
     text-align: justify;
     padding: 12px;
     margin-bottom: 20px;
+    background: white;
+}
+.bg{
+    background-image: url("../asset/fondo.jpg");
+    background-repeat: repeat-y;
+    width: auto;
+    height: auto;  
+}
+.down{
+   position: relative;
+    top: 10vh;
 }
