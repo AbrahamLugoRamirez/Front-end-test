@@ -12,12 +12,14 @@
     background: white;
 }
 .bg{
-    background-image: url("../asset/fondo.jpg");
-    background-repeat: repeat-y;
-    width: auto;
-    height: auto;  
+   
+    width: 100%;
+    height: 100vh;  
 }
 .down{
    position: relative;
     top: 10vh;
+}
+body{
+    background: url("../asset/fondo.jpg");
 }
