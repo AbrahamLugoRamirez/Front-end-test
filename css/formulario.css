@@ -22,3 +22,7 @@
 body{
     background: url("../asset/fondo.jpg");
 }
+cbx{
+    position: relative;
+    right: 30vh;
+}
