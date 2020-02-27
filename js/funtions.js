@@ -1,6 +1,6 @@
 function validar(){
 
         alert("correct")
-        window.location.href="html/formulario.html";
+        window.location.href="html/operadores.html";
         
 }

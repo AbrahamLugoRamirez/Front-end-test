@@ -14,13 +14,14 @@
    
     width: 100%;
     height: 100vh;  
+    
 }
 .down{
    position: relative;
     top: 10vh;
 }
 body{
-    background: url("../asset/fondo.jpg");
+    background: url("../asset/fondo.jpg") ;
 }
 cbx{
     position: relative;
