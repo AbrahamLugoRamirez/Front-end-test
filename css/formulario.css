@@ -18,7 +18,7 @@
 }
 .down{
    position: relative;
-    top: 10vh;
+    top: 8vh;
 }
 body{
     background: url("../asset/fondo.jpg") ;
@@ -26,4 +26,8 @@ body{
 cbx{
     position: relative;
     right: 30vh;
+}
+.logo{
+    position: relative;
+    top: 10px;
 }

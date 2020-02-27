@@ -1,6 +1,6 @@
 .form-container{
     position: absolute;
-    top: 15vh;    
+    top: 8vh;    
     padding:10%;
     font-size:italic;
     background-color: white;
@@ -11,6 +11,10 @@
     border-radius: 10px;
     box-shadow: 0px 0px 10px 0px #000;  
     width: 100%;
+}
+.logo{
+    position: relative;
+    top: 10px;
 }
 .bg{
     

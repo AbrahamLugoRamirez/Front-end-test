@@ -6,7 +6,7 @@
     background: url(../asset/fondo.jpg) no-repeat;
 }
 .hi{
-    top: 12vh;
+    top: 8vh;
     border-radius: 7px;
     box-shadow: 0px 0px 5px 0px #000;
     left: auto;
@@ -17,4 +17,8 @@
     padding: 38px;
     margin-bottom: 20px;
     background: white;
+}
+.logo{
+    position: relative;
+    top: 10px;
 }

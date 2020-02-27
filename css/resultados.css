@@ -21,6 +21,9 @@ body{
     
 }
 .text{
-
-    font-size: 200%%;
+    font-size: 200%;
+}
+.logo{
+    position: relative;
+    top: 10px;
 }
