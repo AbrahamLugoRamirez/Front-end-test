@@ -18,6 +18,11 @@
     margin-bottom: 20px;
     background: white;
 }
+.cente{     
+    width: 10%;
+    margin: auto;
+    text-align: justify;   
+}
 .logo{
     position: relative;
     top: 10px;
