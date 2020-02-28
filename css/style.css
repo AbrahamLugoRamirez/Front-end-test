@@ -68,12 +68,16 @@ width: 100%;
 }
 .ls-line-md {
     border-bottom: 1px solid #A4A4A4;
-    width: 130px;
+    width: 10px;
     left: 3%;
 }
 .ls-or {
     top: 10px;
     text-align: center;
+}
+.line{
+    position: absolute;
+    top: 12px;
 }
 .hi{
     top: 8vh;
@@ -84,7 +88,10 @@ width: 100%;
     width: 70%;
     margin: auto;
     text-align: justify;
-    padding: 20px;
+    padding: 25px;
     margin-bottom: 20px;
     background: white;
+}
+.line{
+  width: 100vh;
 }
