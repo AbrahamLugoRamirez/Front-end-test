@@ -1,6 +1,6 @@
 .hi{
-    border-radius: 7px;
-    box-shadow: 0px 0px 5px 0px #000;
+    border-radius: 6px;
+    box-shadow: 0px 0px 3px 0px #000;
     left: auto;
     right: auto ;
     width: 70%;
@@ -21,7 +21,7 @@
     top: 8vh;
 }
 body{
-    background: url("../asset/fondo.jpg") ;
+    
 }
 cbx{
     position: relative;

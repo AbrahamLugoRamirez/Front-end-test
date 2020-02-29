@@ -11,22 +11,53 @@
     <title>Front-end</title>
   </head>
   <body>
-    
-    
-    <div class="center bg  " > 
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4 shadow">
+      <object class="pr-2 ml-3" type="image/svg+xml" data="assets/eco.svg" width="42px" height="auto"></object>
       <div class="logo">
         <a href="operadores.html">
         <img src="../asset/logo.png" >
         </a>
       </div> 
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarText">
+        <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="operadores.html">Operarios</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link btn-success btn ml-3 d-none d-lg-block" href="../index.html">Iniciar sesión</a>
+          <a class="nav-link d-lg-none text-success" href="../index.html">Iniciar sesión</a>
+        </li>
+        </ul>
+      </div>
+    </nav> 
+    
+    
+    <div class="center bg  " >      
         <div class="col-12 col-md-8 hi">
-
             <h1>Score:</h1>
             <h1 class="text">100%</h1>
             <h3>5/5</h3>
-
         </div>
     </div>
+    <footer class="footer mt-auto py-4 bg-dark text-light shadow">
+      <div class="container">
+          <div class="row align-items-center py-3 justify-content-around">
+          <div class="row mb-1">
+            <object class="pr-2 ml-3" type="image/svg+xml" data="assets/eco.svg" width="50px" height="auto"></object>
+            <a class="nav-name navbar-brand text-light" href="index.html">Gasoducto</a>
+            </div>
+            <div class="col d-none d-lg-block">
+            <a class="text-light mx-auto" href="preguntas.html">Questions</a>
+            </div>
+            <div>
+            <p class="mb-0">&copy; 2020 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+            </div>
+          </div>
+      </div>
+      </footer>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
