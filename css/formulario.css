@@ -31,3 +31,8 @@ cbx{
     position: relative;
     top: 10px;
 }
+.cente{     
+    width: 10%;
+    margin: auto;
+    text-align: justify;   
+}
